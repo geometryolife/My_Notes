@@ -1,2 +1,2 @@
 ## TODO
-I'm studing Python.
+I'm studing Go.
